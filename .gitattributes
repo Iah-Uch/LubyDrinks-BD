@@ -1,5 +1,7 @@
 * linguist-vendored
 *.html linguist-vendored=false
 
-app/* linguist-documentation=false
-app/* linguist-vendored
+LubyDrinks-DB/* linguist-documentation=false
+LubyDrinks-DB/* linguist-vendored
+
+LubyDrinks-DB/Dicionário de Dados LubyDrinks.html -linguist-detectable
