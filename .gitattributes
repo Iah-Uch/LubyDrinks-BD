@@ -1,2 +1,2 @@
-LubyDrinks-DB/* linguist-documentation=false
-LubyDrinks-DB/* linguist-vendored
+* linguist-vendored
+*.html linguist-vendored=false
